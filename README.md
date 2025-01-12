@@ -1,7 +1,6 @@
 # Weather ChatBot Application 🌦️
 
-**Author:** Nevil Patel and Jaskirat Kaur  
-**Date:** November 15th, 2024  
+**Author:** Nevil Patel and Jaskirat Kaur
 
 ---
 
