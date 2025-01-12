@@ -3,14 +3,13 @@ from chatbot import get_user_weather_response
 
 """
 Weather Chatot for Discord
-Author: Jaskirat Kaur and Neil Patel
+Author: Jaskirat Kaur and Nevil Patel
 Date: November 15th,2024
 Description:
 This weather discord chatbot provides the weather updates based on the user input. The bot responds to greetings,farewells ,and queries about the weather in various cities. It interacts with user through messages and fetches weather information using the chatbot module.If the user asks any question out of weather information scope, it will responds accordingly.
 
 
 """
-
 
 
 class MyClient(discord.Client):
@@ -70,6 +69,7 @@ class MyClient(discord.Client):
             # If the bot is not tagged, do not respond
             return
 
+
 # Initialize and run the bot
 if __name__ == "__main__":
     # Load the bot token from a file
@@ -83,4 +83,3 @@ if __name__ == "__main__":
     # Create an instance of the bot and run it
     client = MyClient()
     client.run(token)
-
