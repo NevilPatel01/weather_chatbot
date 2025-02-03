@@ -1,7 +1,5 @@
 # Weather ChatBot Application 🌦️
 
----
-
 ## 📜 **Description**
 The Weather ChatBot is an engaging and intelligent assistant designed to provide real-time weather updates and fun interactions. Powered by OpenAI's GPT and Visual Crossing's Weather API, this chatbot handles weather-related queries with ease and adds a conversational charm to your interactions. From casual queries like "What's the weather tomorrow in Paris?" to fun facts about rain, the bot is equipped to deliver!
 
