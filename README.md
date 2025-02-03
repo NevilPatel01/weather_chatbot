@@ -1,7 +1,5 @@
 # Weather ChatBot Application 🌦️
 
-**Author:** Nevil Patel and Jaskirat Kaur
-
 ---
 
 ## 📜 **Description**
