@@ -28,16 +28,13 @@ The Weather ChatBot is an engaging and intelligent assistant designed to provide
    ```bash
    git clone https://github.com/NevilPatel01/weather_chatbot.git
    ```
-2. Install required dependencies:
-    ```bash
-    ```
-3.  Configure your API keys:
+2.  Configure your API keys:
 - Create a `secret_key.py` file and add your OpenAI and Visual Crossing API keys:
     ```bash
     openai_key = "YOUR_OPENAI_API_KEY"
     visual_crossing_key = "YOUR_VISUAL_CROSSING_API_KEY"
     ```
-4. Run the bot:
+3. Run the bot:
     ```bash
     python weather_chatbot.py
     ```
